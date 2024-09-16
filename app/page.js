@@ -121,8 +121,8 @@ export default function Home() {
       </div>
       <div className={styles.img4}></div>
 
-      <div className={styles.budem}>
-        <h2 data-aos="zoom-out">Будем вас ждать!</h2>
+      <div className={styles.budem}  data-aos="zoom-out">
+        <h2>Будем вас ждать!</h2>
       </div>
     </div>
   );
