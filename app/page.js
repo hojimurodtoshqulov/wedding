@@ -21,7 +21,7 @@ export default function Home() {
 
       {/* --------------showcase---------------- */}
       <div className={styles.showcase}>
-        <h1 data-aos="fade-down" data-aos-offset="900" data-aos-duration="900">
+        <h1 data-aos="fade-down">
           All you need is love!
         </h1>
         <div className={styles.showcaseTexts}>
