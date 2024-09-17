@@ -21,7 +21,7 @@ export default function Home() {
 
       {/* --------------showcase---------------- */}
       <div className={styles.showcase}>
-        <h1 data-aos="fade-down">
+        <h1 data-aos="fade-down" data-aos-offset="900" data-aos-duration="900">
           All you need is love!
         </h1>
         <div className={styles.showcaseTexts}>
@@ -33,7 +33,7 @@ export default function Home() {
       </div>
 
       {/* --------------page text---------------- */}
-      <p className={styles.pageText}  data-aos="zoom-in">
+      <p className={styles.pageText}  data-aos="zoom-in" data-aos-delay="900">
         Дорогой гость! <br/>
         Мы будем рады разделить с вами радость неповторимого для нас дня-дня нашей свадьбы!
         Приглашаем присоединиться к нашему празднику и украсить его своим присутствием!
